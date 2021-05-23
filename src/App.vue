@@ -1,27 +1,57 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
+  <TopBar />
+  <Question />
+  <About8Values />
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
-import HelloWorld from "./components/HelloWorld.vue";
+import { defineComponent, provide } from "vue";
+import TopBar from "./components/TopBar.vue";
+import Question from "./components/Question.vue";
+import About8Values from "./components/About8Values.vue";
+import store from "@/store";
 
 export default defineComponent({
   name: "App",
   components: {
-    HelloWorld,
+    TopBar,
+    Question,
+    About8Values,
+  },
+  setup() {
+    provide("store", store);
   },
 });
 </script>
 
 <style>
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@200;400;600;800&family=Oswald:wght@700&display=swap");
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+}
+
+* {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: "Oswald", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+ul,
+ol,
+li,
+h2,
+h3,
+h4,
+p {
+  font-family: "Mulish", sans-serif;
+  padding: 0;
+  margin: 0;
 }
 </style>

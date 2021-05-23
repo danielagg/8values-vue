@@ -1,0 +1,632 @@
+[
+  {
+    "text": "A nagyvállalatok általi elnyomás nagyobb probléma az államigazgatás elnyomásánál.",
+    "effect": {
+      "econ": 10,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Szükség van arra, hogy egy kormány beleavatkozzon a gazdaságba a fogyasztók védelme érdekében.",
+    "effect": {
+      "econ": 10,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Minél szabadabb a piac, annál szabadabbak az emberek.",
+    "effect": {
+      "econ": -10,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "A költségvetés kiegyensúlyozottsága fontosabb minden polgár jóléténél.",
+    "effect": {
+      "econ": -10,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "A piaci alapon finanszírozott kutatásokkal szemben a közfinanszírozott kutatásokkal jobban járnak az emberek.",
+    "effect": {
+      "econ": 10,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 10
+    }
+  },
+  {
+    "text": "A nemzetközi kereskedelem vámolása fontos a helyi termelés ösztönzése érdekében.",
+    "effect": {
+      "econ": 5,
+      "dipl": 0,
+      "govt": -10,
+      "scty": 0
+    }
+  },
+  {
+    "text": "A javak elosztása mindenkitől a képességeinek megfelelően, mindenkinek a szüksége szerint történjen.",
+    "effect": {
+      "econ": 10,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Jobb lenne ha a szociális programokat felszámolnák, hogy előtérbe kerülhessenek a magánalapítványok.",
+    "effect": {
+      "econ": -10,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Jobban meg kellene adóztatni a gazdagokat, hogy a szegényeknek jobb körülményeket tudjunk biztosítani.",
+    "effect": {
+      "econ": 10,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Az örökség jogos vagyoni forrás.",
+    "effect": {
+      "econ": -10,
+      "dipl": 0,
+      "govt": 0,
+      "scty": -5
+    }
+  },
+  {
+    "text": "Az alapvető közszolgáltatásoknak - mint az utaknak vagy a villanynak - az állam tulajdonában van a helye.",
+    "effect": {
+      "econ": 10,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "A kormány közbeavatkozása fenyegetés a gazdaságra nézve.",
+    "effect": {
+      "econ": -10,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Azok, akik meg tudják maguknak engedni, jogosultak magasabb szintű egészségügyi ellátásra.",
+    "effect": {
+      "econ": -10,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "A minőségi oktatás minden ember alapvető joga.",
+    "effect": {
+      "econ": 10,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 5
+    }
+  },
+  {
+    "text": "A megtermelt javak felett azon munkások rendelkezzenek akik megtermelték azokat.",
+    "effect": {
+      "econ": 10,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Az Egyesült Nemzetek Szervezetét fel kell számolni.",
+    "effect": {
+      "econ": 0,
+      "dipl": -10,
+      "govt": -5,
+      "scty": 0
+    }
+  },
+  {
+    "text": "A katonai beavatkozás gyakran szükséges népünk megvédése érdekében.",
+    "effect": {
+      "econ": 0,
+      "dipl": -10,
+      "govt": -10,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Támogatom az olyan regionális uniók működését mint az Európai Unió.",
+    "effect": {
+      "econ": -5,
+      "dipl": 10,
+      "govt": 10,
+      "scty": 5
+    }
+  },
+  {
+    "text": "Fontos, hogy fenntartsuk népünk szuverenitását.",
+    "effect": {
+      "econ": 0,
+      "dipl": -10,
+      "govt": -5,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Egy egyesült világkormány az emberiség előnyére válna.",
+    "effect": {
+      "econ": 0,
+      "dipl": 10,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Fontosabb a béke megőrzése mint a hatalom kiterjesztése.",
+    "effect": {
+      "econ": 0,
+      "dipl": 10,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Nem szükséges megindokolni, hogy miért indítunk háborúkat más országokkal szemben.",
+    "effect": {
+      "econ": 0,
+      "dipl": -10,
+      "govt": -10,
+      "scty": 0
+    }
+  },
+  {
+    "text": "A katonai finanszírozás pénzpocséklás.",
+    "effect": {
+      "econ": 0,
+      "dipl": 10,
+      "govt": 10,
+      "scty": 0
+    }
+  },
+  {
+    "text": "A nemzetközi segély pénzpocséklás.",
+    "effect": {
+      "econ": -5,
+      "dipl": -10,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Az én nemzetem nagyszerű.",
+    "effect": {
+      "econ": 0,
+      "dipl": -10,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "A kutatásokat nemzetközi szinten kell elvégezni.",
+    "effect": {
+      "econ": 0,
+      "dipl": 10,
+      "govt": 0,
+      "scty": 10
+    }
+  },
+  {
+    "text": "A kormányoknak felelősséggel kellene tartozniuk a nemzetközi közösség felé.",
+    "effect": {
+      "econ": 0,
+      "dipl": 10,
+      "govt": 5,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Még ha egy tekintélyelvű kormánnyal szemben is lépünk fel, az erőszak elfogadhatatlan.",
+    "effect": {
+      "econ": 0,
+      "dipl": 5,
+      "govt": -5,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Vallásom értékeit minél szélesebb körben kell terjeszteni.",
+    "effect": {
+      "econ": 0,
+      "dipl": -5,
+      "govt": -10,
+      "scty": -10
+    }
+  },
+  {
+    "text": "Nemzetünk értékeit minél szélesebb körben kell terjeszteni.",
+    "effect": {
+      "econ": 0,
+      "dipl": -10,
+      "govt": -5,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Fontos a törvény és a rend fenntartása.",
+    "effect": {
+      "econ": 0,
+      "dipl": -5,
+      "govt": -10,
+      "scty": -5
+    }
+  },
+  {
+    "text": "A lakosság általában rossz döntéseket hoz.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": -10,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Az eutanáziát legálissá kellene tenni.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 10,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Némely polgári szabadságjogunk feláldozása szükséges hogy védve maradjunk a terrorizmustól.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": -10,
+      "scty": 0
+    }
+  },
+  {
+    "text": "A kormányzati megfigyelés szükséges a modern világban.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": -10,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Az államigazgatás már önmaga létezésében is fenyegeti szabadságunkat.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 10,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Politikai véleménytől függetlenül fontos, hogy saját országunk oldalán álljunk.",
+    "effect": {
+      "econ": 0,
+      "dipl": -10,
+      "govt": -10,
+      "scty": -5
+    }
+  },
+  {
+    "text": "Semmilyen hatalom nem maradhat megkérdőjelezhetetlenül.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 10,
+      "scty": 5
+    }
+  },
+  {
+    "text": "A hierarchikus társadalom létezése ideális.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": -10,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Fontos, hogy a kormány még akkor is kövesse a többség véleményét ha az esetleg helytelen.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 10,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Minél erősebb a vezetés, annál jobb.",
+    "effect": {
+      "econ": 0,
+      "dipl": -10,
+      "govt": -10,
+      "scty": 0
+    }
+  },
+  {
+    "text": "A demokrácia sokkal több mint döntéshozói folyamat.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 10,
+      "scty": 0
+    }
+  },
+  {
+    "text": "A környezetvédelmi előírások létfontosságúak.",
+    "effect": {
+      "econ": 5,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 10
+    }
+  },
+  {
+    "text": "Egy jobb világ fog származni az automatizálásból, valamint a tudomány és a technológia fejlődéséből.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 10
+    }
+  },
+  {
+    "text": "A gyerekeket vallási és hagyományos értékekre kell tanítani.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": -5,
+      "scty": -10
+    }
+  },
+  {
+    "text": "A hagyományok önmagukban nem számítanak értéknek.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 10
+    }
+  },
+  {
+    "text": "A vallásnak szerepet kell játszania a kormányzásban.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": -10,
+      "scty": -10
+    }
+  },
+  {
+    "text": "A templomokat úgy kellene megadóztatni ahogyan más intézményeket is.",
+    "effect": {
+      "econ": 5,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 10
+    }
+  },
+  {
+    "text": "A klímaváltozás a jelenlegi legnagyobb fenyegetést jelenti az életünkre.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 10
+    }
+  },
+  {
+    "text": "Fontos, hogy együttes erővel fogjunk össze a klímaváltozás elleni harcban.",
+    "effect": {
+      "econ": 0,
+      "dipl": 10,
+      "govt": 0,
+      "scty": 10
+    }
+  },
+  {
+    "text": "A társadalom jobb volt évekkel ezelőtt mint most.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 0,
+      "scty": -10
+    }
+  },
+  {
+    "text": "Fontos, hogy fenntartsuk múltunk hagyományait.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 0,
+      "scty": -10
+    }
+  },
+  {
+    "text": "Fontos hosszútávon gondolkodnunk, akár a saját élettartamunkon tovább.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 10
+    }
+  },
+  {
+    "text": "Az észszerűség fontosabb, mint a kultúránk fenntartása.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 10
+    }
+  },
+  {
+    "text": "A droghasználatot legalizálni vagy legalább dekriminalizálni kellene.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 10,
+      "scty": 2
+    }
+  },
+  {
+    "text": "Az azonos neműek házasságát legalizálni kellene.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 10,
+      "scty": 10
+    }
+  },
+  {
+    "text": "Egy kultúra sem felsőrendűbb a másiknál.",
+    "effect": {
+      "econ": 0,
+      "dipl": 10,
+      "govt": 5,
+      "scty": 10
+    }
+  },
+  {
+    "text": "A házasságon kívüli szex erkölcstelen.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": -5,
+      "scty": -10
+    }
+  },
+  {
+    "text": "Ha bevándorlókat fogadunk be, azt csak azzal a feltétellel tegyük meg, hogy asszimilálódnak kultúránkba.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": -5,
+      "scty": -10
+    }
+  },
+  {
+    "text": "Az abortuszt be kell tiltani legtöbb, vagy minden esetben.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": -10,
+      "scty": -10
+    }
+  },
+  {
+    "text": "A fegyvertartást be kell tiltani azoknak akiknek nincs rá nyomós okuk.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": -10,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Támogatom az egyfizetős, univerzális egészségügyi ellátást.",
+    "effect": {
+      "econ": 10,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "A prostitúció legyen illegális.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": -10,
+      "scty": -10
+    }
+  },
+  {
+    "text": "A családi értékek fenntartása kulcsfontosságú.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 0,
+      "scty": -10
+    }
+  },
+  {
+    "text": "Mindenáron a haladást hajszolni veszélyes.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 0,
+      "scty": -10
+    }
+  },
+  {
+    "text": "A génmódosítás egy hasznos eszköz, még az embereken is.",
+    "effect": {
+      "econ": 0,
+      "dipl": 0,
+      "govt": 0,
+      "scty": 10
+    }
+  },
+  {
+    "text": "Meg kell nyitnunk a határokat a bevándorlás számára.",
+    "effect": {
+      "econ": 0,
+      "dipl": 10,
+      "govt": 10,
+      "scty": 0
+    }
+  },
+  {
+    "text": "A kormányoknak legalább annyira aggódniuk kellene a külföldiekért mint saját polgáraikért.",
+    "effect": {
+      "econ": 0,
+      "dipl": 10,
+      "govt": 0,
+      "scty": 0
+    }
+  },
+  {
+    "text": "Minden embert - kultúrától vagy szexualitástól függetlenül - egyenlőnek kell kezelni.",
+    "effect": {
+      "econ": 10,
+      "dipl": 10,
+      "govt": 10,
+      "scty": 10
+    }
+  },
+  {
+    "text": "Fontos, hogy közösségem célkitűzéseit terjesszem mindenek felett.",
+    "effect": {
+      "econ": -10,
+      "dipl": -10,
+      "govt": -10,
+      "scty": -10
+    }
+  }
+]
