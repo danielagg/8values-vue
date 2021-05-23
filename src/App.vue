@@ -32,6 +32,11 @@ export default defineComponent({
   -moz-osx-font-smoothing: grayscale;
 }
 
+body {
+  padding: 0;
+  margin: 0;
+}
+
 * {
   -moz-box-sizing: border-box;
   box-sizing: border-box;

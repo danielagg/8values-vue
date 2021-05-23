@@ -56,9 +56,9 @@ main {
     padding: 0;
     margin: 0;
     font-size: 3.5rem;
-    width: 60%;
+    width: 70%;
     margin: 3rem 0;
-    height: 16rem;
+    min-height: 18rem;
     transition: width 0.25s ease-in-out;
   }
 
